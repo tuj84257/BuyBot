@@ -1,0 +1,5 @@
+CHROME_DRIVER_PATH = "C:/Users/ardit/Desktop/chromedriver.exe"
+BEST_BUY_ITEM_URL = "https://www.bestbuy.com/site/apple-watch-series-6-gps-44mm-space-gray-aluminum-case-with-black-sport-band-space-gray/6215931.p?skuId=6215931"
+BEST_BUY_EMAIL = "youremail@gmail.com"
+BEST_BUY_PASSWORD = "yourpassword"
+CVV = "123"
